@@ -46,6 +46,9 @@ python 02_AIAgentCalculator.py
 
 - Understanding basic AI Agent concepts.
 - Building rule-based AI agents.
+- Processing user queries.
+- Implementing decision-making using conditional statements.
+- 
 
 ## 👨‍💻 Author
 
