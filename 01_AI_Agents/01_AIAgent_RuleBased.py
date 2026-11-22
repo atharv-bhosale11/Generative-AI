@@ -1,4 +1,3 @@
-print("Marvellous Infosystems")
 print("Simple Rule Based AI Agent")
 
 def simple_agent(user_input):
@@ -14,12 +13,12 @@ def simple_agent(user_input):
         return "You can check your device clock for the current time."
     
     elif "help" in user_input:
-        return "Sure! Tell me what you need help with."
+        return "Sure! Tell me what you need help with." 
     
     elif "bye" in user_input:
         return "Goodbye! Have a wonderful day."
     
-      else:
+    else:
         return "I'm sorry, I couldn't understand that. Please try another question."
   
 while True:
