@@ -22,4 +22,6 @@ while True:
         print("Agent: Goodbye!")
         break
 
+    response = agent(query)
+    print("Agent:", response)
     
