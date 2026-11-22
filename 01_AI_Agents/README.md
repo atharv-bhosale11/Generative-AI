@@ -48,13 +48,11 @@ python 02_AIAgentCalculator.py
 - Building rule-based AI agents.
 - Processing user queries.
 - Implementing decision-making using conditional statements.
-- 
+- Creating calculator functionality as an external tool.
+- Understanding how agents interact with tools.
 
 ## 👨‍💻 Author
 
 **Atharv Tushar Bhosale**
 
-
 ---
-
-*Learning and building Generative AI and AI Agent applications through hands-on Python programming.*
