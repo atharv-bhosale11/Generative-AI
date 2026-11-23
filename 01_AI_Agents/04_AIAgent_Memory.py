@@ -1,3 +1,5 @@
+print("AI Agent with Memory")
+
 memory = {}
 
 def agent(user_input):
