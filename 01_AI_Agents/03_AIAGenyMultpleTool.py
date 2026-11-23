@@ -1,3 +1,5 @@
+print("AI Agent with Multiple Tools")
+
 def calculator(expression):
     try:
         return eval(expression)
@@ -15,7 +17,7 @@ def show_date():
 def agent(user_input):
     user_input = user_input.lower()
 
-    if "calculate" in user_input:
+    if "calculate" in user_input: 
         expression = user_input.replace("calculate", "")
         return "Answer is: " + str(calculator(expression))
 
