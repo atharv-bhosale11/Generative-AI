@@ -44,6 +44,8 @@ python 01_AIAgent_RuleBased.py
 - Building rule-based agents.
 - Implementing tool-based interactions.
 - Working with multiple tools.
+- Understanding basic agent memory.
+- Processing user queries through Python.
 
 ## 👨‍💻 Author
 
