@@ -1,20 +1,22 @@
 # AI Agents – Python
 
-This section contains Python-based AI Agent programs, starting with basic rule-based agents and progressing towards tool-using agents. It focuses on understanding agent fundamentals, user interaction, decision-making, and tool integration.
+This section contains Python-based AI Agent programs covering rule-based systems, tool integration, multiple tools, and basic memory functionality.
 
 ## 📌 Programs
 
 | Sr. No. | Program Name | Description |
 |:---:|---|---|
-| 01 | `01_AIAgent_RuleBased.py` | Developed a simple rule-based AI agent that responds to user queries using predefined keywords and conditional statements. |
-| 02 | `02_AIAgentCalculator.py` | Developed an AI agent with calculator tool functionality that processes mathematical expressions and returns calculated results. |
+| 01 | `01_AIAgent_RuleBased.py` | Built a rule-based AI agent using predefined keywords and conditional statements. |
+| 02 | `02_AIAgentCalculator.py` | Implemented an AI agent with calculator tool functionality for mathematical operations. |
+| 03 | `03_AIAgenyMultipleTool.py` | Developed an AI agent using multiple tools for calculations, date and time retrieval. |
+| 04 | `04_AIAgentMemory.py` | Created an AI agent with basic memory to store and retrieve user information. |
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Concepts
 
-- **Programming Language:** Python
-- **Concepts:** AI Agents, Rule-Based Systems, Conditional Statements, Functions, Loops
-- **Tool Integration:** Calculator Tool
-- **Input Handling:** User Input and String Processing
+- **Language:** Python
+- **Concepts:** AI Agents, Rule-Based Systems, Functions, Loops, Conditional Statements
+- **Agent Capabilities:** Tool Usage, Calculator, Date & Time, Memory Management
+- **Python Modules:** datetime
 
 ## ▶️ How to Run
 
@@ -24,35 +26,24 @@ Clone the repository:
 git clone https://github.com/atharv-bhosale11/Generative-AI.git
 ```
 
-Navigate to the AI Agents directory:
+Navigate to the folder:
 
 ```bash
 cd Generative-AI/01_AI_Agents
 ```
 
-Run the programs:
+Run any program:
 
-**Program 01:**
 ```bash
 python 01_AIAgent_RuleBased.py
 ```
 
-**Program 02:**
-```bash
-python 02_AIAgentCalculator.py
-```
-
 ## 🎯 Learning Objectives
 
-- Understanding basic AI Agent concepts.
-- Building rule-based AI agents.
-- Processing user queries.
-- Implementing decision-making using conditional statements.
-- Creating calculator functionality as an external tool.
-- Understanding how agents interact with tools.
+- Understanding AI Agent fundamentals.
+- Building rule-based agents.
+- Implementing tool-based interactions.
 
 ## 👨‍💻 Author
 
 **Atharv Tushar Bhosale**
-
----
