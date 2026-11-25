@@ -16,7 +16,6 @@ This section contains Python-based AI Agent programs covering rule-based systems
 - **Language:** Python
 - **Concepts:** AI Agents, Rule-Based Systems, Functions, Loops, Conditional Statements
 - **Agent Capabilities:** Tool Usage, Calculator, Date & Time, Memory Management
-- **Python Modules:** datetime
 
 ## ▶️ How to Run
 
