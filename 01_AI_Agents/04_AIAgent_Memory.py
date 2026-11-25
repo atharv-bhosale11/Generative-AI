@@ -19,7 +19,7 @@ def agent(user_input):
     elif "show memory" in user_input.lower():
         return str(memory)
 
-    else:
+    else: 
         return "I can remember your name. Try: My name is Rahul"
 
 while True:
